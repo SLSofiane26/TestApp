@@ -1,2 +1,2 @@
 # appspanel
-Test application Appspanel
+Test application
